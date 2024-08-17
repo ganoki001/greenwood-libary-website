@@ -9,4 +9,6 @@ so the staps i would be taken are as follows
 5. push and pr for it and merge  it back to the main branch on the ripository on git hub
 6. create another branch for jamie "update events branch"
 7. pull and pr the update the updated events
+8. ![image](https://github.com/user-attachments/assets/2cecfdcb-a4e7-4635-a468-d713fe29b25a)
+
 

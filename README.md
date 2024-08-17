@@ -1,10 +1,11 @@
 # greenwood-libary-website
 capstone1 for dareyi.o
 this is my frist capstone1 projects
-so the staps i would be taking are as follows
-1. i would be creata local clone if the git repository
-2. creatinging home.html, about us.html., events.html.adding cotent to each file then stage, commit and push the files
-3. step to creating a branch for morgan adding a new file "book reviews"
-4. push and pr for it and merge it back to the main branch
-5. create another branch for jamie "update events branch"
-6. pull and pr the update 
+so the staps i would be taken are as follows
+1. i would be created  if the git repository on my git hub account titled greenwood libary
+2. on my linx terminal, i created a git clone of the repository which was my main branch   
+3. on the main branch created a home.html, about us.html., events.html.adding cotent to each file then stage, commit and push the files
+4. so i switched user and created a branch book reviews for a new user called morgan adding a new file "book reviews"
+5. push and pr for it and merge  it back to the main branch on the ripository on git hub
+6. create another branch for jamie "update events branch"
+7. pull and pr the update the updated events

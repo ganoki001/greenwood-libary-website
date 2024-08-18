@@ -19,7 +19,9 @@ so the staps i would be taken are as follows
 16. git pull request for update changes![image](https://github.com/user-attachments/assets/c4ca2043-d534-4059-a3a4-9e4980738e35)
 17. jamie user clone in![image](https://github.com/user-attachments/assets/42aa0265-1b45-4c3b-adcb-59a722ba5ca6)
 18. jaimie git stage, git add, git commit and git push ![image](https://github.com/user-attachments/assets/bd0559e4-0cd5-4e0b-866c-979da0a11532)
-19. final step sucessful merge of all branches 
+19. final step sucessful merge of all branches
+20. sucsessful merge ![image](https://github.com/user-attachments/assets/657b9ed4-f695-4141-a43d-20778e242330)
+
 
 
 

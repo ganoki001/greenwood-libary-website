@@ -10,5 +10,16 @@ so the staps i would be taken are as follows
 6. create another branch for jamie "update events branch"
 7. pull and pr the update the updated events
 8. ![image](https://github.com/user-attachments/assets/2cecfdcb-a4e7-4635-a468-d713fe29b25a)
+10. branch update![image](https://github.com/user-attachments/assets/0dd88fa7-95b9-4a3d-a9dd-f8eaf863d868)
+11. update events branch jamie ![image](https://github.com/user-attachments/assets/54eca6b2-55ca-485b-9244-c58b5ead7bf8)
+12. Git clone in for main branch![image](https://github.com/user-attachments/assets/e885afd2-3a3a-454e-9b2a-cad0b17cf2e8)
+13. branch creation for morgan book reveiw branch![image](https://github.com/user-attachments/assets/099e8db4-99f2-4010-9e25-b4013cc20497)
+14. morgan git pull ![image](https://github.com/user-attachments/assets/5dc1bad8-b24d-477c-9794-7ce33ba8a27c)
+15. git push origin morgan ![image](https://github.com/user-attachments/assets/3db9ac77-56cc-412e-9ba4-7ba3543e546a)
+
+
+
+
+
 
 
